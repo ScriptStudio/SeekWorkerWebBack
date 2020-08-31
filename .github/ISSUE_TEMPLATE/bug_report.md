@@ -1,38 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: Relato de Bug
+about: Crie um relatório para nos ajudar a melhorar
+title: "[BUG]"
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Descreva o bug**
+Uma descrição clara e concisa do erro.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Como reproduzir**
+Etapas para reproduzir o comportamento:
+1. Vá em '...'
+2. Clique em '....'
+3. Role para baixo até '....'
+4. Veja o erro
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportamento esperado**
+Uma descrição clara e concisa do que você esperava que acontecesse.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Se possível adicione um screenshot para ajudar a descrever o problema.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Desktop (por favor complete as seguintes informações):**
+ - OS: [ex. iOS]
+ - Browser [ex. chrome, safari]
+ - Versão [ex. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Smartphone (por favor complete as seguintes informações):**
+ - Dispositivo: [ex. iPhone6]
+ - OS: [ex. iOS8.1]
+ - Browser [ex. stock browser, safari]
+ - Versão [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**Contexto adicional**
+Adicione quaisquer outras informações sobre o bug aqui.
